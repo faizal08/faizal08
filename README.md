@@ -45,9 +45,5 @@ I am a results-driven **Full Stack Developer** and **M.Tech graduate** transitio
 
 ---
 
-### 📊 GitHub Stats
-![Faizal's Stats](https://github-readme-stats.vercel.app/api?username=faizal08&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faizal08&layout=compact&theme=tokyonight)
-
 ### ✍️ Dev Quote
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
