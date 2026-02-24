@@ -1,4 +1,4 @@
-# Hi,  I'm Mohammed Faizal K [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+# Hi,  I'm Mohammed Faizal K 👋
 ### Java Full Stack Developer | Test Automation Intern
 
 I am a results-driven **Full Stack Developer** and **M.Tech graduate** transitioning from a robust background in Electrical Engineering to building scalable, well-tested software solutions. I specialize in the **Java/Spring Boot** ecosystem, modern frontend frameworks like **React**, and **Automated Testing**.
