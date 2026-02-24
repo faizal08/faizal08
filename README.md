@@ -44,8 +44,8 @@ I am a results-driven **Full Stack Developer** and **M.Tech graduate** transitio
 
 ### 📂 Key Projects
 * **GLAMGAZE:** Eyewear E-commerce platform built with Spring Boot and PostgreSQL. Features secure authentication and AWS EC2 deployment.
-* **Nesto App Testing:** Automated functional testing suite using Selenium WebDriver.
-* **User Management System:** Full-stack app with React and JWT security.
+* **Nesto_supermarket_app:** An supermarket invoice genertion app built with Springboot and PostgreSQL.
+* **Nesto_Automation_Framework:**An Automated functional keyword driven testing suite using Selenium WebDriver which takes input from excel sheets .The above Nesto_supermarket_app was test completely automated using this.
 
 ---
 
