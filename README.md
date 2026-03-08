@@ -6,7 +6,7 @@ I am a results-driven **Full Stack Developer** and **M.Tech graduate** transitio
 * 🌍  I'm based in INDIA
     <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*lhOax3cZATGZwEhG0uTYRA.gif">
 
-* ✉️  You can contact me at [reachfaizal08@gmail.com](mailto:reachfaizal08@gmail.com)
+* ✉️  You can contact me at email: [reachfaizal08@gmail.com](mailto:reachfaizal08@gmail.com)
 
 <div align="center">
 
